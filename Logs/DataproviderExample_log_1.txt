@@ -1,0 +1,1224 @@
+2012-06-20 11:11:54 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-20 11:11:54 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-20 11:11:54 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 6 ms)
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 19 ms)
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 62 ms)
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 25 ms)
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 72 ms)
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-06-20 11:11:55 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 79 ms)
+2012-06-20 11:13:32 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-20 11:13:32 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-20 11:13:33 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 1052 ms)
+2012-06-20 11:13:33 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 1052 ms)
+2012-06-20 11:13:33 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-20 11:13:33 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-20 11:13:33 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-20 11:13:33 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 406 ms)
+2012-06-20 11:13:33 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 425 ms)
+2012-06-20 11:13:33 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 831 ms)
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 11 ms)
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 9 ms)
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 18 ms)
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 6 ms)
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 68 ms)
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-20 11:59:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 61 ms)
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-06-20 11:59:03 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 127 ms)
+2012-06-20 12:09:50 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-20 12:09:50 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-20 12:09:50 [com.wakanda-software.DataproviderExample.Companies.JS4D] ERROR - [1] TypeError: 'null' is not an object (evaluating 'loadText(ds.getModelFolder().path + "Import/companies.txt" ).split'), HTTP connection handler
+2012-06-20 12:09:50 [com.wakanda-software.DataproviderExample.Companies.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/DavidRobbins/Desktop/DataproviderExample/Companies/import.js, HTTP connection handler
+2012-06-20 12:09:51 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1046 ms)
+2012-06-20 12:09:51 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-20 12:09:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2057 ms)
+2012-06-20 12:09:53 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3103 ms)
+2012-06-20 12:09:53 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-20 12:09:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-20 12:09:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-20 12:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 456 ms)
+2012-06-20 12:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 459 ms)
+2012-06-20 12:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-20 12:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-20 12:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-06-20 12:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-06-20 12:09:54 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1275 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 14 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 63 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 63 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 63 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-06-20 12:15:46 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 134 ms)
+2012-06-20 12:29:33 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-20 12:29:33 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-20 12:29:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1049 ms)
+2012-06-20 12:29:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-20 12:29:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2057 ms)
+2012-06-20 12:29:36 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3107 ms)
+2012-06-20 12:29:36 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-20 12:29:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-20 12:29:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-20 12:29:37 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2012-06-20 12:29:37 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 412 ms)
+2012-06-20 12:29:37 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-20 12:29:37 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-20 12:29:37 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-06-20 12:29:37 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-06-20 12:29:38 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1227 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 62 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 6 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 15 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 118 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 63 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 62 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-06-20 14:00:46 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 132 ms)
+2012-06-20 16:21:09 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-20 16:21:09 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-20 16:21:11 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1045 ms)
+2012-06-20 16:21:11 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3094 ms)
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 404 ms)
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 405 ms)
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 403 ms)
+2012-06-20 16:21:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 404 ms)
+2012-06-20 16:21:14 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1216 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 291 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 48 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 61 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 389 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 60 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-06-20 16:30:55 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 128 ms)
+2012-06-20 16:33:04 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-20 16:33:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-20 16:33:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1049 ms)
+2012-06-20 16:33:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3099 ms)
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 405 ms)
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 406 ms)
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-20 16:33:07 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-20 16:33:08 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 403 ms)
+2012-06-20 16:33:08 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-06-20 16:33:08 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1217 ms)
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 65 ms)
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 15 ms)
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 118 ms)
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-20 16:36:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 21 ms)
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 59 ms)
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 29 ms)
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 64 ms)
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-06-20 16:37:00 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 131 ms)
+2012-06-20 17:50:08 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-20 17:50:08 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-20 17:50:09 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1047 ms)
+2012-06-20 17:50:09 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3096 ms)
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 404 ms)
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 404 ms)
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 406 ms)
+2012-06-20 17:50:11 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-06-20 17:50:12 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1218 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 58 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 15 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 111 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 61 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-06-20 17:50:53 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 126 ms)
+2012-06-20 17:59:10 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-20 17:59:10 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-20 17:59:11 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1052 ms)
+2012-06-20 17:59:11 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2061 ms)
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3115 ms)
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 410 ms)
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-20 17:59:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-20 17:59:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-06-20 17:59:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-06-20 17:59:14 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1223 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 86 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 16 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 141 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 27 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 67 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-06-20 18:33:57 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 132 ms)
+2012-06-20 18:48:54 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-20 18:48:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-20 18:48:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1048 ms)
+2012-06-20 18:48:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-20 18:48:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-06-20 18:48:57 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3101 ms)
+2012-06-20 18:48:57 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-20 18:48:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-20 18:48:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-20 18:48:58 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2012-06-20 18:48:58 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 408 ms)
+2012-06-20 18:48:58 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-20 18:48:58 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-20 18:48:58 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-06-20 18:48:58 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-06-20 18:48:59 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1223 ms)
+2012-06-21 09:09:53 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-21 09:09:53 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 382 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 11 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 95 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 43 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 50 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 608 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 29 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 468 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 29 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 64 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-21 09:09:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-21 09:09:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 41 ms)
+2012-06-21 09:09:55 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 574 ms)
+2012-06-21 09:48:26 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-21 09:48:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-21 09:48:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1047 ms)
+2012-06-21 09:48:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-21 09:48:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-06-21 09:48:29 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3097 ms)
+2012-06-21 09:48:29 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-21 09:48:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-21 09:48:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-21 09:48:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 406 ms)
+2012-06-21 09:48:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 408 ms)
+2012-06-21 09:48:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-21 09:48:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-21 09:48:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-06-21 09:48:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 422 ms)
+2012-06-21 09:48:31 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1238 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 31 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 6 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 16 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 8 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 21 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 107 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 25 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 65 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 31 ms)
+2012-06-21 09:53:03 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 158 ms)
+2012-06-21 12:09:06 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-21 12:09:06 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-21 12:09:07 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1048 ms)
+2012-06-21 12:09:07 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2055 ms)
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3103 ms)
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 406 ms)
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 408 ms)
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-06-21 12:09:09 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 421 ms)
+2012-06-21 12:09:10 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1240 ms)
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 29 ms)
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 10 ms)
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 93 ms)
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-21 13:36:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 21 ms)
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 69 ms)
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 25 ms)
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-06-21 13:36:22 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 138 ms)
+2012-06-21 14:07:54 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-21 14:07:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-21 14:07:55 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1050 ms)
+2012-06-21 14:07:55 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2056 ms)
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3107 ms)
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 405 ms)
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 409 ms)
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-21 14:07:57 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-21 14:07:58 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-06-21 14:07:58 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 432 ms)
+2012-06-21 14:07:58 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1250 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 40 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 91 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 21 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 72 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-06-21 14:13:39 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 138 ms)
+2012-06-21 15:14:01 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-21 15:14:01 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-21 15:14:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1050 ms)
+2012-06-21 15:14:03 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3103 ms)
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 409 ms)
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-06-21 15:14:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-06-21 15:14:06 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1223 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 22 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 85 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 73 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 64 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-06-21 15:14:52 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 145 ms)
+2012-06-21 15:30:21 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-21 15:30:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-21 15:30:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1052 ms)
+2012-06-21 15:30:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-21 15:30:24 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2054 ms)
+2012-06-21 15:30:24 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3106 ms)
+2012-06-21 15:30:24 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-21 15:30:24 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-21 15:30:24 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-21 15:30:25 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2012-06-21 15:30:25 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 409 ms)
+2012-06-21 15:30:25 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-21 15:30:25 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-21 15:30:25 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-06-21 15:30:25 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-06-21 15:30:25 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1224 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 15 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 17 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 74 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 65 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 7 ms)
+2012-06-21 15:41:27 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 135 ms)
+2012-06-21 17:19:57 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-21 17:19:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-21 17:19:58 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1049 ms)
+2012-06-21 17:19:58 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-21 17:20:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-06-21 17:20:00 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3102 ms)
+2012-06-21 17:20:00 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-21 17:20:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-21 17:20:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-21 17:20:01 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 406 ms)
+2012-06-21 17:20:01 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 408 ms)
+2012-06-21 17:20:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-21 17:20:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-21 17:20:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-06-21 17:20:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-06-21 17:20:01 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1223 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 31 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 14 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 18 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 103 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 23 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 74 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 47 ms)
+2012-06-21 17:37:30 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 184 ms)
+2012-06-21 17:58:57 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-21 17:58:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-21 17:58:58 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1049 ms)
+2012-06-21 17:58:58 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3102 ms)
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 406 ms)
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 508 ms)
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-21 17:59:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-21 17:59:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-06-21 17:59:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-06-21 17:59:01 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1322 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 339 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 54 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 120 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 12 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 18 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 553 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 129 ms)
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-22 09:11:52 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-22 09:11:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-06-22 09:11:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-06-22 09:11:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-22 09:11:53 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-22 09:11:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-22 09:11:53 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 7 ms)
+2012-06-22 09:11:53 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 196 ms)
+2012-06-22 13:39:08 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-22 13:39:08 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-22 13:39:09 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1108 ms)
+2012-06-22 13:39:09 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-22 13:39:11 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-06-22 13:39:11 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3161 ms)
+2012-06-22 13:39:11 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-22 13:39:11 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-22 13:39:11 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-22 13:39:12 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2012-06-22 13:39:12 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 410 ms)
+2012-06-22 13:39:12 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-22 13:39:12 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-22 13:39:12 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-06-22 13:39:12 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 423 ms)
+2012-06-22 13:39:13 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1242 ms)
+2012-06-22 13:39:37 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-22 13:39:37 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-22 13:39:37 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 13 ms)
+2012-06-22 13:39:37 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-22 13:39:37 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-22 13:39:37 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-06-22 13:39:37 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 46 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 13 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 115 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 27 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 69 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-06-22 13:39:38 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 138 ms)
+2012-06-22 13:43:32 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-22 13:43:32 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-22 13:43:33 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1047 ms)
+2012-06-22 13:43:33 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3099 ms)
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 406 ms)
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 408 ms)
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-06-22 13:43:35 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the database
+2012-06-22 13:43:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-06-22 13:43:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-06-22 13:43:36 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1222 ms)
+2012-06-22 13:51:53 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-06-22 13:51:53 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 58 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 12 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 25 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the database
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 122 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 27 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 68 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 29 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 63 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-06-22 13:51:54 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 138 ms)
+2012-06-22 14:16:38 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-06-22 14:16:38 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-06-22 14:16:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1083 ms)
+2012-06-22 14:16:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-06-22 14:16:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-06-22 14:16:41 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3136 ms)
+2012-06-22 14:16:41 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-06-22 14:16:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 10 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 36 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 47 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 26 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 112 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 23 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 142 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 76 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-09-12 12:25:14 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 228 ms)
+2012-09-12 12:26:42 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-09-12 12:26:42 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-09-12 12:26:43 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1051 ms)
+2012-09-12 12:26:43 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2055 ms)
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3107 ms)
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 404 ms)
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 407 ms)
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-09-12 12:26:45 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 817 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 46 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 6 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 17 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 98 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 68 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-09-12 12:29:04 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 137 ms)
+2012-09-12 12:29:12 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-09-12 12:29:12 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-09-12 12:29:13 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1049 ms)
+2012-09-12 12:29:13 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-09-12 12:29:15 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-09-12 12:29:15 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3102 ms)
+2012-09-12 12:29:15 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-09-12 12:29:15 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-09-12 12:29:15 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-09-12 12:29:16 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 405 ms)
+2012-09-12 12:29:16 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 406 ms)
+2012-09-12 12:29:16 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-09-12 12:29:16 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-09-12 12:29:16 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 812 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 7 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 20 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 64 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 21 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 78 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 77 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-09-12 13:43:29 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 165 ms)
+2012-09-12 13:44:26 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-09-12 13:44:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-09-12 13:44:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1049 ms)
+2012-09-12 13:44:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-09-12 13:44:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-09-12 13:44:29 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3103 ms)
+2012-09-12 13:44:29 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-09-12 13:44:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-09-12 13:44:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-09-12 13:44:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 405 ms)
+2012-09-12 13:44:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 405 ms)
+2012-09-12 13:44:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-09-12 13:44:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-09-12 13:44:30 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 816 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 7 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 5 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 10 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 48 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 21 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 56 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-09-12 14:12:34 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 126 ms)
+2012-09-12 14:13:03 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-09-12 14:13:03 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-09-12 14:13:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 2053 ms)
+2012-09-12 14:13:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-09-12 14:13:07 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2055 ms)
+2012-09-12 14:13:07 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 4109 ms)
+2012-09-12 14:13:07 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-09-12 14:13:07 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-09-12 14:13:07 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-09-12 14:13:08 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2012-09-12 14:13:08 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 407 ms)
+2012-09-12 14:13:08 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-09-12 14:13:08 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 4 ms)
+2012-09-12 14:13:08 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 818 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 37 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 66 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 130 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 24 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 70 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 32 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 76 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-09-26 15:34:47 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-09-26 15:34:48 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-09-26 15:34:48 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 158 ms)
+2012-09-26 15:45:59 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-09-26 15:45:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-09-26 15:46:00 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1056 ms)
+2012-09-26 15:46:00 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2063 ms)
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3119 ms)
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 406 ms)
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 408 ms)
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-09-26 15:46:02 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-09-26 15:46:03 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 817 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 33 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 15 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 46 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 35 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 205 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 24 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 68 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 102 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-10-27 12:11:36 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 180 ms)
+2012-10-27 15:37:36 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-10-27 15:37:36 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-10-27 15:37:37 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1051 ms)
+2012-10-27 15:37:37 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-10-27 15:37:39 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2061 ms)
+2012-10-27 15:37:39 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3113 ms)
+2012-10-27 15:37:39 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-10-27 15:37:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-10-27 15:37:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-10-27 15:37:39 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2012-10-27 15:37:40 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 781 ms)
+2012-10-27 15:37:40 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-10-27 15:37:40 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-10-27 15:37:40 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 1192 ms)
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 359 ms)
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 14 ms)
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 118 ms)
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 31 ms)
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 588 ms)
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 195 ms)
+2012-11-12 10:14:17 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-11-12 10:14:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-11-12 10:14:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 32 ms)
+2012-11-12 10:14:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 176 ms)
+2012-11-12 10:14:18 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-11-12 10:14:18 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-12 10:14:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-12 10:14:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 22 ms)
+2012-11-12 10:14:18 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 395 ms)
+2012-11-13 07:23:57 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-11-13 07:23:57 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-11-13 07:23:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1152 ms)
+2012-11-13 07:23:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2085 ms)
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3238 ms)
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 406 ms)
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 406 ms)
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-11-13 07:24:01 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 824 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 28 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 46 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 159 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 22 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 65 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 75 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-12-13 11:31:41 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 150 ms)
+2012-12-13 11:32:26 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-12-13 11:32:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-12-13 11:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1048 ms)
+2012-12-13 11:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-12-13 11:32:29 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2059 ms)
+2012-12-13 11:32:29 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3109 ms)
+2012-12-13 11:32:29 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-12-13 11:32:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-12-13 11:32:29 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-12-13 11:32:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 406 ms)
+2012-12-13 11:32:30 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 406 ms)
+2012-12-13 11:32:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-12-13 11:32:30 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-12-13 11:32:30 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 815 ms)
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 69 ms)
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 6 ms)
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 18 ms)
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 123 ms)
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 23 ms)
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 67 ms)
+2012-12-13 13:13:17 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2012-12-13 13:13:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2012-12-13 13:13:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 30 ms)
+2012-12-13 13:13:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 74 ms)
+2012-12-13 13:13:18 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2012-12-13 13:13:18 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-12-13 13:13:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-12-13 13:13:18 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-12-13 13:13:18 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 151 ms)
+2012-12-13 13:18:24 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2012-12-13 13:18:24 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2012-12-13 13:18:25 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1049 ms)
+2012-12-13 13:18:25 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2060 ms)
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3109 ms)
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 404 ms)
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 404 ms)
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2012-12-13 13:18:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 9 ms)
+2012-12-13 13:18:28 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 825 ms)
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 231 ms)
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 63 ms)
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 130 ms)
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 36 ms)
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 480 ms)
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2013-02-03 12:32:04 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 30 ms)
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 145 ms)
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 40 ms)
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 136 ms)
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-02-03 12:32:05 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 303 ms)
+2013-02-03 12:32:23 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2013-02-03 12:32:23 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2013-02-03 12:32:24 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1061 ms)
+2013-02-03 12:32:24 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2081 ms)
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3142 ms)
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 407 ms)
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 407 ms)
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2013-02-03 12:32:26 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 816 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 12 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 12 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 16 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 65 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 29 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 75 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 40 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 95 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 10 ms)
+2013-02-03 12:32:27 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 182 ms)
+2013-02-03 12:32:58 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2013-02-03 12:32:58 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2013-02-03 12:32:58 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 274 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 11 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 111 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 28 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 579 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 39 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 162 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 131 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2013-02-03 12:32:59 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 308 ms)
+2013-02-03 12:37:22 [com.wakanda-software.DataproviderExample] INFO - Stopping the solution
+2013-02-03 12:37:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Stopping the project
+2013-02-03 12:37:23 [com.wakanda-software.DataproviderExample.Companies] INFO - Project stopped (duration: 1057 ms)
+2013-02-03 12:37:23 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Stopping the project
+2013-02-03 12:37:25 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project stopped (duration: 2059 ms)
+2013-02-03 12:37:25 [com.wakanda-software.DataproviderExample] INFO - Solution stopped (duration: 3117 ms)
+2013-02-03 12:37:25 [com.wakanda-software.DataproviderExample] INFO - Closing the solution
+2013-02-03 12:37:25 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the project
+2013-02-03 12:37:25 [com.wakanda-software.DataproviderExample.Companies] INFO - Closing the database
+2013-02-03 12:37:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Database closed (duration: 405 ms)
+2013-02-03 12:37:26 [com.wakanda-software.DataproviderExample.Companies] INFO - Project closed (duration: 408 ms)
+2013-02-03 12:37:26 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Closing the project
+2013-02-03 12:37:26 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2013-02-03 12:37:26 [com.wakanda-software.DataproviderExample] INFO - Solution closed (duration: 819 ms)
+2013-06-06 15:27:21 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2013-06-06 15:27:21 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2013-06-06 15:27:21 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 43 ms)
+2013-06-06 15:27:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2013-06-06 15:27:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2013-06-06 15:27:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 31 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 63 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 34 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 190 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 25 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 66 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 34 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 96 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 6 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 40 ms)
+2013-06-06 15:27:22 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 209 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample] INFO - Opening the solution
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample] INFO - Opening the users and groups directory
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample] INFO - Users and groups directory opened (duration: 18 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the project
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Opening the database
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Database opened (duration: 7 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Project opened (duration: 17 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Opening the project
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project opened (duration: 4 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample] INFO - Solution opened (duration: 65 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample] INFO - Starting the solution
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the project
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Starting the HTTP server
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - HTTP server started (duration: 25 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Project started (duration: 65 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the project
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Starting the HTTP server
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - HTTP server started (duration: 33 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Project started (duration: 80 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Executing the bootstrap(s)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.Companies] INFO - Bootstrap(s) executed (duration: 6 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2013-06-06 15:29:21 [com.wakanda-software.DataproviderExample] INFO - Solution started (duration: 161 ms)

@@ -1,0 +1,1 @@
+﻿//for (var i = 0; i < 1000; ++i)//{//	new ds.City({name : "fake city "+i}).save();//}//ds.City.length//myCollection = ds.City.all();//myCollection.length
